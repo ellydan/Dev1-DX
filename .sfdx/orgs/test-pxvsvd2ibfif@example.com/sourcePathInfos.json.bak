@@ -1,0 +1,227 @@
+[
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538702035325,
+            "changeTime": 1538702035325,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538702035327,
+            "changeTime": 1538702035327,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538702035327,
+            "changeTime": 1538702035327,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538703593313,
+            "changeTime": 1538703593313,
+            "contentHash": "119e2f088cb7dfc60f905876a018eae1232e81fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538703593339,
+            "changeTime": 1538703593339,
+            "contentHash": "c602aa769dd62f17561299462770da4485dc3d8e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1538703593338,
+            "changeTime": 1538703593338,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 190,
+            "modifiedTime": 1538703830968,
+            "changeTime": 1538703830968,
+            "contentHash": "aa68da1d0253f4bc7fdaf46014b6f11543dda17a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 240,
+            "modifiedTime": 1538703593316,
+            "changeTime": 1538703593316,
+            "contentHash": "b1cc283c9cbc7277c5a03888ba7b7394f1cc9a47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1538703593334,
+            "changeTime": 1538703593334,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1538703593340,
+            "changeTime": 1538703593340,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1538703593337,
+            "changeTime": 1538703593337,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1538703593331,
+            "changeTime": 1538703593331,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1538703593333,
+            "changeTime": 1538703593333,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1538703593335,
+            "changeTime": 1538703593335,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\admin\\my_sfdx_project\\Dev1",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\admin\\my_sfdx_project\\Dev1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538704077470,
+            "changeTime": 1538704077470,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
